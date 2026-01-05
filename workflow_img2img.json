@@ -1,0 +1,4 @@
+ComfyUI download: 
+1. comfyui.localhost → Load → Flux + ControlNet OpenPose
+2. Save (API format) → workflow_api.json
+3. Upload repo
